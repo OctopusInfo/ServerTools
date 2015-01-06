@@ -12,7 +12,7 @@ MAXIMUM_SPEED = 2500 #2.5 MB/s or 20Mb/s
 RETRIES = 3
 
 # Set the interval (in seconds), between retries to test for the minimum speed.
-INTERVAL = 1
+INTERVAL = 5
 
 
 import os, time
